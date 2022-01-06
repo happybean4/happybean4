@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=happybean4)](https://github.com/happybean4/github-profile-trophy)
+
 [![khanjhy's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khanjhy)](https://solved.ac/profile/khanjhy) 
